@@ -1,0 +1,4 @@
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Web.Client.Rest\Web.Client.Rest\bin\Release\Web.Client.Rest.dll
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Web.Client.Rest\Web.Client.Rest\bin\Release\Web.Client.Rest.pdb
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Web.Client.Rest\Web.Client.Rest\obj\Release\Web.Client.Rest.dll
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Web.Client.Rest\Web.Client.Rest\obj\Release\Web.Client.Rest.pdb

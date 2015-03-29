@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DatabaseModel" Alias="Self" xmlns="http://schemas.microsoft.com/ado/2006/04/edm">
+  <EntityContainer Name="DatabaseEntities">
+    <EntitySet Name="WmsShipmentDatas" EntityType="DatabaseModel.WmsShipmentData" />
+  </EntityContainer>
+  <EntityType Name="WmsShipmentData">
+    <Key>
+      <PropertyRef Name="All" />
+      <PropertyRef Name="Activated" />
+      <PropertyRef Name="InProgress" />
+      <PropertyRef Name="Picked" />
+      <PropertyRef Name="Shipped" />
+      <PropertyRef Name="Stopped" />
+    </Key>
+    <Property Type="DateTime" Name="DateTime" Precision="3" />
+    <Property Type="Double" Name="All" Nullable="false" />
+    <Property Type="Double" Name="Activated" Nullable="false" />
+    <Property Type="Double" Name="InProgress" Nullable="false" />
+    <Property Type="Double" Name="Picked" Nullable="false" />
+    <Property Type="Double" Name="Shipped" Nullable="false" />
+    <Property Type="Double" Name="Stopped" Nullable="false" />
+  </EntityType>
+</Schema>

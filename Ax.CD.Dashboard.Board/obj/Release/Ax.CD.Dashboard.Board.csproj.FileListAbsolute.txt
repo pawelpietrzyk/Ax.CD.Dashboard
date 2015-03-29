@@ -1,0 +1,9 @@
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.Board\bin\Release\Ax.CD.Dashboard.Board.dll
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.Board\bin\Release\Ax.CD.Dashboard.Board.pdb
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.Board\bin\Release\Ax.Model.dll
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.Board\bin\Release\Dashboard.Model.dll
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.Board\bin\Release\Ax.Model.pdb
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.Board\bin\Release\Dashboard.Model.pdb
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.Board\obj\Release\Ax.CD.Dashboard.Board.csprojResolveAssemblyReference.cache
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.Board\obj\Release\Ax.CD.Dashboard.Board.dll
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.Board\obj\Release\Ax.CD.Dashboard.Board.pdb

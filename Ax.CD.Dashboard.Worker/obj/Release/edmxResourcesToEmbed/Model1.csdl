@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DashboardDataModel1" Alias="Self" xmlns="http://schemas.microsoft.com/ado/2006/04/edm">
+  <EntityContainer Name="DashboardDataEntities1">
+    <EntitySet Name="WmsShipmentDatas" EntityType="DashboardDataModel1.WmsShipmentData" />
+  </EntityContainer>
+  <EntityType Name="WmsShipmentData">
+    <Key>
+      <PropertyRef Name="DateTime" />
+    </Key>
+    <Property Name="DateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Total" Type="Double" />
+    <Property Name="Activated" Type="Double" />
+    <Property Name="InProgress" Type="Double" />
+    <Property Name="Picked" Type="Double" />
+    <Property Name="Shipped" Type="Double" />
+    <Property Name="Stopped" Type="Double" />
+  </EntityType>
+</Schema>

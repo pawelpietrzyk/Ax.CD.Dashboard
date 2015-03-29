@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="urn:schemas-microsoft-com:windows:storage:mapping:CS">
+  <EntityContainerMapping StorageEntityContainer="DatabaseModelStoreContainer" CdmEntityContainer="DatabaseEntities">
+    <EntitySetMapping Name="WmsShipmentDatas">
+      <EntityTypeMapping TypeName="DatabaseModel.WmsShipmentData">
+        <MappingFragment StoreEntitySet="WmsShipmentData">
+          <ScalarProperty Name="Stopped" ColumnName="Stopped" />
+          <ScalarProperty Name="Shipped" ColumnName="Shipped" />
+          <ScalarProperty Name="Picked" ColumnName="Picked" />
+          <ScalarProperty Name="InProgress" ColumnName="InProgress" />
+          <ScalarProperty Name="Activated" ColumnName="Activated" />
+          <ScalarProperty Name="All" ColumnName="All" />
+          <ScalarProperty Name="DateTime" ColumnName="DateTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

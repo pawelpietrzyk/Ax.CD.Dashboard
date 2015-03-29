@@ -1,0 +1,5 @@
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Dashboard.Model\bin\Debug\Dashboard.Model.dll
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Dashboard.Model\bin\Debug\Dashboard.Model.pdb
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Dashboard.Model\obj\Debug\Dashboard.Model.dll
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Dashboard.Model\obj\Debug\Dashboard.Model.pdb
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Dashboard.Model\obj\Debug\Dashboard.Model.csprojResolveAssemblyReference.cache

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DatabaseModel.Store" Alias="Self" Provider="System.Data.SqlServerCe.4.0" ProviderManifestToken="4.0" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2006/04/edm/ssdl">
+  <EntityContainer Name="DatabaseModelStoreContainer">
+    <EntitySet Name="WmsShipmentData" EntityType="DatabaseModel.Store.WmsShipmentData" store:Type="Tables" store:Name="WmsShipmentData">
+      <DefiningQuery>SELECT 
+            [WmsShipmentData].[DateTime] AS [DateTime], 
+            [WmsShipmentData].[All] AS [All], 
+            [WmsShipmentData].[Activated] AS [Activated], 
+            [WmsShipmentData].[InProgress] AS [InProgress], 
+            [WmsShipmentData].[Picked] AS [Picked], 
+            [WmsShipmentData].[Shipped] AS [Shipped], 
+            [WmsShipmentData].[Stopped] AS [Stopped]
+            FROM [WmsShipmentData] AS [WmsShipmentData]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+  <!--Errors Found During Generation:
+            warning 6002: The table/view 'WmsShipmentData' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+            -->
+  <EntityType Name="WmsShipmentData">
+    <Key>
+      <PropertyRef Name="All" />
+      <PropertyRef Name="Activated" />
+      <PropertyRef Name="InProgress" />
+      <PropertyRef Name="Picked" />
+      <PropertyRef Name="Shipped" />
+      <PropertyRef Name="Stopped" />
+    </Key>
+    <Property Name="DateTime" Type="datetime" />
+    <Property Name="All" Type="float" Nullable="false" />
+    <Property Name="Activated" Type="float" Nullable="false" />
+    <Property Name="InProgress" Type="float" Nullable="false" />
+    <Property Name="Picked" Type="float" Nullable="false" />
+    <Property Name="Shipped" Type="float" Nullable="false" />
+    <Property Name="Stopped" Type="float" Nullable="false" />
+  </EntityType>
+</Schema>

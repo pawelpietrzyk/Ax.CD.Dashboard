@@ -1,0 +1,28 @@
+19 Dec 2014 00:05:27; {"title": "19 Dec 2014 12:05 AM Razem 0", "pie_data": [["Oczekujące",0.00],["Aktywowane",0.00],["Pobierane",0.00],["Pobrane",0.00],["Wysłane",0.00],["Anulowane",0.00]]}
+19 Dec 2014 00:06:50; {"title": "19 Dec 2014 12:06 AM Razem 0", "pie_data": [["Oczekujące",0.00],["Aktywowane",0.00],["Pobierane",0.00],["Pobrane",0.00],["Wysłane",0.00],["Anulowane",0.00]]}
+19 Dec 2014 00:06:50; PushPieComplete: OK Tile's data pushed successfully.
+
+19 Dec 2014 00:06:56; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+19 Dec 2014 00:06:56; FancyConfigComplete: OK Tile's config updated.
+
+19 Dec 2014 00:06:56; PushFancyComplete: OK Tile's data pushed successfully.
+
+19 Dec 2014 00:23:35; {"title": "19 Dec 2014 12:23 AM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+19 Dec 2014 00:23:35; PushPieComplete: OK Tile's data pushed successfully.
+
+19 Dec 2014 00:23:35; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+19 Dec 2014 00:23:35; FancyConfigComplete: OK Tile's config updated.
+
+19 Dec 2014 00:23:35; PushFancyComplete: OK Tile's data pushed successfully.
+
+19 Dec 2014 12:55:01; {"title": "19 Dec 2014 12:55 PM Razem 0", "pie_data": [["Oczekujące",1.00],["Aktywowane",1.00],["Pobierane",1.00],["Pobrane",1.00],["Wysłane",1.00],["Anulowane",1.00]]}
+19 Dec 2014 12:55:06; PushPieComplete: OK Tile's data pushed successfully.
+
+19 Dec 2014 12:57:28; {"title": "19 Dec 2014 12:57 PM Razem 0", "pie_data": [["Oczekujące",1.00],["Aktywowane",1.00],["Pobierane",1.00],["Pobrane",1.00],["Wysłane",1.00],["Anulowane",1.00]]}
+19 Dec 2014 12:57:28; PushPieComplete: OK Tile's data pushed successfully.
+
+19 Dec 2014 12:58:51; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+19 Dec 2014 13:03:11; FancyConfigComplete: BadRequest The remote server returned an error: (404) Not Found.
+19 Dec 2014 13:52:08; {"title": "19 Dec 2014 1:52 PM Razem 0", "pie_data": [["Oczekujące",1.00],["Aktywowane",1.00],["Pobierane",1.00],["Pobrane",1.00],["Wysłane",1.00],["Anulowane",1.00]]}
+19 Dec 2014 13:53:40; {"title": "19 Dec 2014 1:53 PM Razem 0", "pie_data": [["Oczekujące",1.00],["Aktywowane",1.00],["Pobierane",1.00],["Pobrane",1.00],["Wysłane",1.00],["Anulowane",1.00]]}
+19 Dec 2014 13:53:40; PushPieComplete: BadRequest The remote server returned an error: (404) Not Found.

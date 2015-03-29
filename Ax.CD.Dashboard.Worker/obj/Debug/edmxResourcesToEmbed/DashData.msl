@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="urn:schemas-microsoft-com:windows:storage:mapping:CS">
+  <EntityContainerMapping StorageEntityContainer="DashboardDataModelStoreContainer" CdmEntityContainer="DashboardDataEntities">
+    <EntitySetMapping Name="WmsShipmentDatas">
+      <EntityTypeMapping TypeName="DashboardDataModel.WmsShipmentData">
+        <MappingFragment StoreEntitySet="WmsShipmentData">
+          <ScalarProperty Name="DateTime" ColumnName="DateTime" />
+          <ScalarProperty Name="Total" ColumnName="Total" />
+          <ScalarProperty Name="Activated" ColumnName="Activated" />
+          <ScalarProperty Name="InProgress" ColumnName="InProgress" />
+          <ScalarProperty Name="Picked" ColumnName="Picked" />
+          <ScalarProperty Name="Shipped" ColumnName="Shipped" />
+          <ScalarProperty Name="Stopped" ColumnName="Stopped" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

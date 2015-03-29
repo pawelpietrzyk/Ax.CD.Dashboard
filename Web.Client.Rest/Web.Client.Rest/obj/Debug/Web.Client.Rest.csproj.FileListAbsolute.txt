@@ -1,0 +1,5 @@
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Web.Client.Rest\Web.Client.Rest\bin\Debug\Web.Client.Rest.dll
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Web.Client.Rest\Web.Client.Rest\bin\Debug\Web.Client.Rest.pdb
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Web.Client.Rest\Web.Client.Rest\obj\Debug\Web.Client.Rest.dll
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Web.Client.Rest\Web.Client.Rest\obj\Debug\Web.Client.Rest.pdb
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Web.Client.Rest\Web.Client.Rest\obj\Debug\Web.Client.Rest.csprojResolveAssemblyReference.cache

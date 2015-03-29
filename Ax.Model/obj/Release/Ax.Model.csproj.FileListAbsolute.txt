@@ -1,0 +1,4 @@
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.Model\bin\Release\Ax.Model.dll
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.Model\bin\Release\Ax.Model.pdb
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.Model\obj\Release\Ax.Model.dll
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.Model\obj\Release\Ax.Model.pdb

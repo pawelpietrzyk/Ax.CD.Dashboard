@@ -1,0 +1,9 @@
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.Service\bin\Release\Ax.CD.Dashboard.Service.dll
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.Service\bin\Release\Ax.CD.Dashboard.Service.pdb
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.Service\bin\Release\Ax.Model.dll
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.Service\bin\Release\ITPiAST.Axapta50Helper.dll
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.Service\bin\Release\ITPiAST.AxaptaHelper.dll
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.Service\bin\Release\Ax.Model.pdb
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.Service\obj\Release\Ax.CD.Dashboard.Service.csprojResolveAssemblyReference.cache
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.Service\obj\Release\Ax.CD.Dashboard.Service.dll
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.Service\obj\Release\Ax.CD.Dashboard.Service.pdb

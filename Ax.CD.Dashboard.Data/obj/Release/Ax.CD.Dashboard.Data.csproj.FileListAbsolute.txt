@@ -1,0 +1,7 @@
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.Data\bin\Release\Ax.CD.Dashboard.Data.dll.config
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.Data\bin\Release\Ax.CD.Dashboard.Data.dll
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.Data\bin\Release\Ax.CD.Dashboard.Data.pdb
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.Data\obj\Release\Ax.CD.Dashboard.Data.csprojResolveAssemblyReference.cache
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.Data\obj\Release\Ax.CD.Dashboard.Data.dll
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.Data\obj\Release\Ax.CD.Dashboard.Data.pdb
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.Data\bin\Release\DashboardData.sdf

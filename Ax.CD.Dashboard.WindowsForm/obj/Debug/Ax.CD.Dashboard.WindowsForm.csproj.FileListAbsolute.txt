@@ -1,0 +1,28 @@
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.WindowsForm\bin\Debug\DashboardData.sdf
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.WindowsForm\bin\Debug\app.config
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.WindowsForm\bin\Debug\Ax.CD.Dashboard.WindowsForm.exe.config
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.WindowsForm\bin\Debug\Ax.CD.Dashboard.WindowsForm.exe
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.WindowsForm\bin\Debug\Ax.CD.Dashboard.WindowsForm.pdb
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.WindowsForm\bin\Debug\Ax.CD.Dashboard.Service.dll
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.WindowsForm\bin\Debug\Ax.CD.Dashboard.Worker.dll
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.WindowsForm\bin\Debug\ITPiAST.AxaptaHelper.dll
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.WindowsForm\bin\Debug\Ax.Model.dll
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.WindowsForm\bin\Debug\ITPiAST.Axapta50Helper.dll
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.WindowsForm\bin\Debug\Dashboard.Model.dll
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.WindowsForm\bin\Debug\Web.Client.Rest.dll
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.WindowsForm\bin\Debug\Ax.CD.Dashboard.Board.dll
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.WindowsForm\bin\Debug\Ax.CD.Dashboard.Service.pdb
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.WindowsForm\bin\Debug\Ax.CD.Dashboard.Worker.pdb
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.WindowsForm\bin\Debug\Ax.Model.pdb
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.WindowsForm\bin\Debug\Dashboard.Model.pdb
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.WindowsForm\bin\Debug\Web.Client.Rest.pdb
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.WindowsForm\bin\Debug\Ax.CD.Dashboard.Board.pdb
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.WindowsForm\obj\Debug\Ax.CD.Dashboard.WindowsForm.csprojResolveAssemblyReference.cache
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.WindowsForm\obj\Debug\Ax.CD.Dashboard.WindowsForm.CDServiceForm.resources
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.WindowsForm\obj\Debug\Ax.CD.Dashboard.WindowsForm.Properties.Resources.resources
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.WindowsForm\obj\Debug\Ax.CD.Dashboard.WindowsForm.csproj.GenerateResource.Cache
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.WindowsForm\obj\Debug\Ax.CD.Dashboard.WindowsForm.exe
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.CD.Dashboard.WindowsForm\obj\Debug\Ax.CD.Dashboard.WindowsForm.pdb
+C:\Backup\VS\Ax.CD.Dashboard\Ax.CD.Dashboard.WindowsForm\bin\Debug\Ax.CD.Dashboard.WindowsForm.exe.config
+C:\Backup\VS\Ax.CD.Dashboard\Ax.CD.Dashboard.WindowsForm\obj\Debug\Ax.CD.Dashboard.WindowsForm.exe
+C:\Backup\VS\Ax.CD.Dashboard\Ax.CD.Dashboard.WindowsForm\obj\Debug\Ax.CD.Dashboard.WindowsForm.pdb

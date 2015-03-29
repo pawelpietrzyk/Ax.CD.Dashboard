@@ -1,0 +1,57 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Ax.CD.Dashboard.WindowsForm.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Company" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CDT</Value>
+    </Setting>
+    <Setting Name="OperationTimeLimit" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">60000</Value>
+    </Setting>
+    <Setting Name="BatchTimeLimit" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">120000</Value>
+    </Setting>
+    <Setting Name="Version" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="Language" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ConfigFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="StartTime" Type="System.TimeSpan" Scope="Application">
+      <Value Profile="(Default)">06:00:00</Value>
+    </Setting>
+    <Setting Name="TimeInterval" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">10000</Value>
+    </Setting>
+    <Setting Name="Days" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="apiUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://cd.dashboard.allegrogroup.com/api/v0.1/e748f55a98bf44ac875c8f26b0e89d8d</Value>
+    </Setting>
+    <Setting Name="ObjectServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DynamicsAx2@10.82.12.107:2713</Value>
+    </Setting>
+    <Setting Name="ItemOwnerId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Agito</Value>
+    </Setting>
+    <Setting Name="HttpTimeout" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">10000</Value>
+    </Setting>
+    <Setting Name="PieChartShipments" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">shipPie</Value>
+    </Setting>
+    <Setting Name="FancyChartShipments" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">shipFancy</Value>
+    </Setting>
+    <Setting Name="MaxRefresh" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="DirectoryPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

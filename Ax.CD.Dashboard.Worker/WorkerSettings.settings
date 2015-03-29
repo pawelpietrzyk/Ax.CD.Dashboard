@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Ax.CD.Dashboard.Worker" GeneratedClassName="WorkerSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="WaitLabel" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Oczekujące</Value>
+    </Setting>
+    <Setting Name="ActivatedLabel" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Aktywowane</Value>
+    </Setting>
+    <Setting Name="InProgressLabel" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Pobierane</Value>
+    </Setting>
+    <Setting Name="PickedLabel" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Pobrane</Value>
+    </Setting>
+    <Setting Name="ShippedLabel" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Wysłane</Value>
+    </Setting>
+    <Setting Name="StoppedLabel" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Anulowane</Value>
+    </Setting>
+    <Setting Name="LogFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">log.log</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

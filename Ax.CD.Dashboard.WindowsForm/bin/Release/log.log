@@ -1,0 +1,260 @@
+15 Dec 2014 16:09:10; key=pie1&tile=pie_chart&data=%7b%22title%22%3a+%2215+Dec+2014+4%3a09+PM+Razem+0%22%2c+%22pie_data%22%3a+%5b%5b%22Oczekuj%c4%85ce%22%2c0%5d%2c%5b%22Aktywowane%22%2c0%5d%2c%5b%22Pobierane%22%2c0%5d%2c%5b%22Pobrane%22%2c0%5d%2c%5b%22Wys%c5%82ane%22%2c0%5d%2c%5b%22Anulowane%22%2c0%5d%5d%7d
+15 Dec 2014 16:09:18; key=fancy1&tile=fancy_listing&data=%5b%7b%22label%22%3a+%220+(0+%25)%22%2c+%22text%22%3a+%22Oczekuj%c4%85ce%22%2c+%22description%22%3a+%22%22%7d%2c%7b%22label%22%3a+%220+(0+%25)%22%2c+%22text%22%3a+%22Aktywowane%22%2c+%22description%22%3a+%22%22%7d%2c%7b%22label%22%3a+%220+(0+%25)%22%2c+%22text%22%3a+%22Pobierane%22%2c+%22description%22%3a+%22%22%7d%2c%7b%22label%22%3a+%220+(0+%25)%22%2c+%22text%22%3a+%22Pobrane%22%2c+%22description%22%3a+%22%22%7d%2c%7b%22label%22%3a+%220+(0+%25)%22%2c+%22text%22%3a+%22Wys%c5%82ane%22%2c+%22description%22%3a+%22%22%7d%2c%7b%22label%22%3a+%220+(0+%25)%22%2c+%22text%22%3a+%22Anulowane%22%2c+%22description%22%3a+%22%22%7d%5d
+15 Dec 2014 16:11:26; {"title": "15 Dec 2014 4:11 PM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+15 Dec 2014 16:11:26; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 11:01:13; {"title": "16 Dec 2014 11:01 AM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+16 Dec 2014 11:01:26; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 11:02:57; {"title": "16 Dec 2014 11:02 AM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+16 Dec 2014 11:02:57; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 11:08:56; {"title": "4 Dec 2014 11:08 AM Razem 2", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",100],["Anulowane",0]]}
+16 Dec 2014 11:10:59; {"title": "4 Dec 2014 11:10 AM Razem 2", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",100],["Anulowane",0]]}
+16 Dec 2014 11:12:17; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "2 (100 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 11:13:20; {"title": "4 Dec 2014 11:13 AM Razem 2", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",100],["Anulowane",0]]}
+16 Dec 2014 11:13:20; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "2 (100 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 11:46:32; {"title": "16 Dec 2014 11:46 AM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+16 Dec 2014 11:46:32; PushPieComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 11:46:32; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 11:46:32; FancyConfigComplete: OK Tile's config updated.
+
+16 Dec 2014 11:46:32; PushFancyComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 12:38:32; {"title": "16 Dec 2014 12:38 PM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+16 Dec 2014 12:38:33; PushPieComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 12:38:33; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 12:38:33; FancyConfigComplete: OK Tile's config updated.
+
+16 Dec 2014 12:38:33; PushFancyComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 12:40:59; {"title": "16 Dec 2014 12:40 PM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+16 Dec 2014 12:40:59; PushPieComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 12:40:59; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 12:40:59; FancyConfigComplete: OK Tile's config updated.
+
+16 Dec 2014 12:40:59; PushFancyComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 12:56:42; {"title": "16 Dec 2014 12:56 PM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+16 Dec 2014 12:56:42; PushPieComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 12:56:42; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 12:56:42; FancyConfigComplete: OK Tile's config updated.
+
+16 Dec 2014 12:56:42; PushFancyComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 12:58:56; {"title": "16 Dec 2014 12:58 PM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+16 Dec 2014 12:58:56; PushPieComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 12:58:56; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 12:58:56; FancyConfigComplete: OK Tile's config updated.
+
+16 Dec 2014 12:58:56; PushFancyComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 12:59:20; {"title": "16 Dec 2014 12:59 PM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+16 Dec 2014 12:59:20; PushPieComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 12:59:20; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 12:59:20; FancyConfigComplete: OK Tile's config updated.
+
+16 Dec 2014 12:59:20; PushFancyComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 13:04:35; {"title": "16 Dec 2014 1:04 PM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+16 Dec 2014 13:04:35; PushPieComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 13:04:35; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 13:04:35; FancyConfigComplete: OK Tile's config updated.
+
+16 Dec 2014 13:04:35; PushFancyComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 13:04:36; Schema specified is not valid. Errors: 
+Model.ssdl(2,93) : error 0004: Could not load System.Data.SqlServerCe.Entity.dll. Reinstall SQL Server Compact. 
+16 Dec 2014 16:14:22; {"title": "16 Dec 2014 4:14 PM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+16 Dec 2014 16:14:22; PushPieComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 16:14:22; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 16:14:22; FancyConfigComplete: OK Tile's config updated.
+
+16 Dec 2014 16:14:22; PushFancyComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 16:14:22; The specified named connection is either not found in the configuration, not intended to be used with the EntityClient provider, or not valid.
+16 Dec 2014 16:16:35; {"title": "16 Dec 2014 4:16 PM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+16 Dec 2014 16:16:35; PushPieComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 16:16:35; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 16:16:35; FancyConfigComplete: OK Tile's config updated.
+
+16 Dec 2014 16:16:35; PushFancyComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 16:16:35; The underlying provider failed on Open.
+16 Dec 2014 16:29:12; {"title": "16 Dec 2014 4:29 PM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+16 Dec 2014 16:29:12; PushPieComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 16:29:12; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 16:29:12; FancyConfigComplete: OK Tile's config updated.
+
+16 Dec 2014 16:29:12; PushFancyComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 16:29:13; Schema specified is not valid. Errors: 
+DashboardModel.ssdl(2,98) : error 0004: Could not load System.Data.SqlServerCe.Entity.dll. Reinstall SQL Server Compact. 
+16 Dec 2014 16:33:39; {"title": "16 Dec 2014 4:33 PM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+16 Dec 2014 16:33:39; PushPieComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 16:33:39; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 16:33:39; FancyConfigComplete: OK Tile's config updated.
+
+16 Dec 2014 16:33:39; PushFancyComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 16:33:39; Could not load System.Data.SqlServerCe.Entity.dll. Reinstall SQL Server Compact. 
+16 Dec 2014 16:43:35; {"title": "16 Dec 2014 4:43 PM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+16 Dec 2014 16:43:35; PushPieComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 16:43:35; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 16:43:35; FancyConfigComplete: OK Tile's config updated.
+
+16 Dec 2014 16:43:35; PushFancyComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 16:43:35; Could not load System.Data.SqlServerCe.Entity.dll. Reinstall SQL Server Compact. 
+16 Dec 2014 16:52:25; {"title": "16 Dec 2014 4:52 PM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+16 Dec 2014 16:52:25; PushPieComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 16:52:25; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 16:52:25; FancyConfigComplete: OK Tile's config updated.
+
+16 Dec 2014 16:52:25; PushFancyComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 16:53:17; {"title": "16 Dec 2014 4:53 PM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+16 Dec 2014 16:53:17; PushPieComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 16:53:17; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 16:53:17; FancyConfigComplete: OK Tile's config updated.
+
+16 Dec 2014 16:53:17; PushFancyComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 16:57:35; {"title": "16 Dec 2014 4:57 PM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+16 Dec 2014 16:57:35; PushPieComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 16:57:35; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 16:57:35; FancyConfigComplete: OK Tile's config updated.
+
+16 Dec 2014 16:57:35; PushFancyComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 16:58:56; {"title": "16 Dec 2014 4:58 PM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+16 Dec 2014 16:58:56; PushPieComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 16:58:56; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 16:58:56; FancyConfigComplete: OK Tile's config updated.
+
+16 Dec 2014 16:58:56; PushFancyComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 17:12:15; {"title": "16 Dec 2014 5:12 PM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+16 Dec 2014 17:12:15; PushPieComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 17:12:15; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 17:12:15; FancyConfigComplete: OK Tile's config updated.
+
+16 Dec 2014 17:12:15; PushFancyComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 17:12:15; The specified named connection is either not found in the configuration, not intended to be used with the EntityClient provider, or not valid.
+16 Dec 2014 17:15:15; {"title": "16 Dec 2014 5:15 PM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+16 Dec 2014 17:15:15; PushPieComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 17:15:15; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 17:15:15; FancyConfigComplete: OK Tile's config updated.
+
+16 Dec 2014 17:15:16; PushFancyComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 17:17:23; {"title": "16 Dec 2014 5:17 PM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+16 Dec 2014 17:17:24; PushPieComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 17:17:24; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 17:17:24; FancyConfigComplete: OK Tile's config updated.
+
+16 Dec 2014 17:17:24; PushFancyComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 17:30:41; {"title": "16 Dec 2014 5:30 PM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+16 Dec 2014 17:30:41; PushPieComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 17:30:41; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 17:30:41; FancyConfigComplete: OK Tile's config updated.
+
+16 Dec 2014 17:30:41; PushFancyComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 17:31:10; {"title": "16 Dec 2014 5:31 PM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+16 Dec 2014 17:35:44; {"title": "16 Dec 2014 5:35 PM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+16 Dec 2014 17:42:12; PushPieComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 17:42:12; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 17:42:12; FancyConfigComplete: OK Tile's config updated.
+
+16 Dec 2014 17:42:12; PushFancyComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 17:50:08; {"title": "16 Dec 2014 5:50 PM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+16 Dec 2014 17:50:45; PushPieComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 17:50:45; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 17:50:45; FancyConfigComplete: OK Tile's config updated.
+
+16 Dec 2014 17:50:45; PushFancyComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 22:55:43; {"title": "16 Dec 2014 10:55 PM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+16 Dec 2014 22:55:43; PushPieComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 22:55:43; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 22:55:43; FancyConfigComplete: OK Tile's config updated.
+
+16 Dec 2014 22:55:43; PushFancyComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 22:55:57; The specified named connection is either not found in the configuration, not intended to be used with the EntityClient provider, or not valid.
+16 Dec 2014 22:57:21; {"title": "16 Dec 2014 10:57 PM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+16 Dec 2014 22:57:21; PushPieComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 22:57:21; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 22:57:21; FancyConfigComplete: OK Tile's config updated.
+
+16 Dec 2014 22:57:21; PushFancyComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 23:07:26; Could not load System.Data.SqlServerCe.Entity.dll. Reinstall SQL Server Compact. 
+16 Dec 2014 23:26:57; {"title": "16 Dec 2014 11:26 PM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+16 Dec 2014 23:26:57; PushPieComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 23:26:57; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 23:26:57; FancyConfigComplete: OK Tile's config updated.
+
+16 Dec 2014 23:26:57; PushFancyComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 23:27:18; {"title": "16 Dec 2014 11:27 PM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+16 Dec 2014 23:27:18; PushPieComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 23:27:18; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 23:27:18; FancyConfigComplete: OK Tile's config updated.
+
+16 Dec 2014 23:27:18; PushFancyComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 23:30:17; {"title": "16 Dec 2014 11:30 PM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+16 Dec 2014 23:30:24; PushPieComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 23:30:24; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 23:30:24; FancyConfigComplete: OK Tile's config updated.
+
+16 Dec 2014 23:30:25; PushFancyComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 23:30:51; Could not load System.Data.SqlServerCe.Entity.dll. Reinstall SQL Server Compact. 
+16 Dec 2014 23:52:27; {"title": "16 Dec 2014 11:52 PM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+16 Dec 2014 23:52:28; PushPieComplete: OK Tile's data pushed successfully.
+
+16 Dec 2014 23:52:28; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+16 Dec 2014 23:52:28; FancyConfigComplete: OK Tile's config updated.
+
+16 Dec 2014 23:52:28; PushFancyComplete: OK Tile's data pushed successfully.
+
+17 Dec 2014 00:10:59; Unable to load the native components of SQL Server Compact corresponding to the ADO.NET provider of version 8080. Install the correct version of SQL Server Compact. Refer to KB article 974247 for more details.
+17 Dec 2014 09:13:54; {"title": "17 Dec 2014 9:13 AM Razem 0", "pie_data": [["Oczekujące",0],["Aktywowane",0],["Pobierane",0],["Pobrane",0],["Wysłane",0],["Anulowane",0]]}
+17 Dec 2014 09:13:54; PushPieComplete: OK Tile's data pushed successfully.
+
+17 Dec 2014 09:13:54; [{"label": "0 (0 %)", "text": "Oczekujące", "description": ""},{"label": "0 (0 %)", "text": "Aktywowane", "description": ""},{"label": "0 (0 %)", "text": "Pobierane", "description": ""},{"label": "0 (0 %)", "text": "Pobrane", "description": ""},{"label": "0 (0 %)", "text": "Wysłane", "description": ""},{"label": "0 (0 %)", "text": "Anulowane", "description": ""}]
+17 Dec 2014 09:13:54; FancyConfigComplete: OK Tile's config updated.
+
+17 Dec 2014 09:13:54; PushFancyComplete: OK Tile's data pushed successfully.
+
+17 Dec 2014 09:14:00; Unable to load the native components of SQL Server Compact corresponding to the ADO.NET provider of version 8080. Install the correct version of SQL Server Compact. Refer to KB article 974247 for more details.

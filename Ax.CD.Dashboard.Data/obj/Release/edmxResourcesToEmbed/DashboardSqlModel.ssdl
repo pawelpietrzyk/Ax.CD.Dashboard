@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DashboardModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2006/04/edm/ssdl">
+  <EntityContainer Name="DashboardModelStoreContainer">
+    <EntitySet Name="WmsShipmentData" EntityType="DashboardModel.Store.WmsShipmentData" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="WmsShipmentData">
+    <Key>
+      <PropertyRef Name="DateTime" />
+    </Key>
+    <Property Name="DateTime" Type="datetime" Nullable="false" />
+    <Property Name="Total" Type="float" />
+    <Property Name="Activated" Type="float" />
+    <Property Name="InProgress" Type="float" />
+    <Property Name="Picked" Type="float" />
+    <Property Name="Shipped" Type="float" />
+    <Property Name="Stopped" Type="float" />
+  </EntityType>
+</Schema>

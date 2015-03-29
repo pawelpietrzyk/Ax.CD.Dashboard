@@ -1,0 +1,9 @@
+C:\Users\pawel.pietrzyk\Documents\Visual Studio 2012\Projects\AxClient35\Ax.Model\bin\Debug\Ax.Model.dll
+C:\Users\pawel.pietrzyk\Documents\Visual Studio 2012\Projects\AxClient35\Ax.Model\bin\Debug\Ax.Model.pdb
+C:\Users\pawel.pietrzyk\Documents\Visual Studio 2012\Projects\AxClient35\Ax.Model\obj\Debug\Ax.Model.csprojResolveAssemblyReference.cache
+C:\Users\pawel.pietrzyk\Documents\Visual Studio 2012\Projects\AxClient35\Ax.Model\obj\Debug\Ax.Model.dll
+C:\Users\pawel.pietrzyk\Documents\Visual Studio 2012\Projects\AxClient35\Ax.Model\obj\Debug\Ax.Model.pdb
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.Model\bin\Debug\Ax.Model.dll
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.Model\bin\Debug\Ax.Model.pdb
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.Model\obj\Debug\Ax.Model.dll
+C:\Users\pawel.pietrzyk\documents\visual studio 2012\Projects\Ax.CD.Dashboard\Ax.Model\obj\Debug\Ax.Model.pdb
